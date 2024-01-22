@@ -30,6 +30,12 @@ This repository mainly organizes resources related to embodied intelligence, inc
 
 </details>
 
+<details> <summary>Task Planning</summary>
+
+- Embodied Task Planning with Large Language Models [[arxiv](https://arxiv.org/pdf/2307.01848.pdf)] [[website](https://gary3410.github.io/TaPA/)]
+
+</details>
+
 ## Hardware
 
 ## Software
