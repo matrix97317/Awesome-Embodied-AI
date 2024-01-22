@@ -40,4 +40,19 @@ This repository mainly organizes resources related to embodied intelligence, inc
 
 ## Hardware
 
+- [Soc](./Hardware/soc.md)
+
 ## Software
+
+### AI Infrastructure
+<details> <summary>Large Scale Training Framework(based Pytorch)</summary>
+
+ - [DeepSpeed](https://github.com/microsoft/DeepSpeed)
+
+</details>
+
+<details> <summary>Edge Inference Engine</summary>
+
+ - [TVM](https://github.com/apache/tvm)
+
+</details>
