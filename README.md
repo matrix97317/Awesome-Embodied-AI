@@ -2,7 +2,11 @@
 This repository mainly organizes resources related to embodied intelligence, including data, models, hardware, and software infrastructure.
 
 ## Data
+<<<<<<< HEAD
 <details> <summary>3D Grounding</summary>
+=======
+<details> <summary>3D Grouding</summary>
+>>>>>>> main
 
 - SCENEVERSE: Scaling 3D Vision-Language Learning for Grounded Scene Understanding [[arxiv](https://arxiv.org/pdf/2401.09340.pdf)] [[github](https://scene-verse.github.io)]
 
@@ -15,7 +19,11 @@ This repository mainly organizes resources related to embodied intelligence, inc
 </details>
 
 ## Model
+<<<<<<< HEAD
 <details> <summary>3D Grounding</summary>
+=======
+<details> <summary>3D Grouding</summary>
+>>>>>>> main
 
 - LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language Model as an Agent [[arxiv](https://arxiv.org/pdf/2309.12311.pdf)] [[github](https://chat-with-nerf.github.io/)]
 
