@@ -12,7 +12,11 @@ This repository mainly organizes resources related to embodied intelligence, inc
 
 <details> <summary>LLM-Robot</summary>
 
+- AutoRT: Embodied Foundation Models for Large Scale Orchestration of Robotic Agents [[paper](https://auto-rt.github.io/static/pdf/AutoRT.pdf)] [[website](https://auto-rt.github.io/)] [2024]
+
 - CALVIN: A Benchmark for Language-Conditioned Policy Learning for Long-Horizon Robot Manipulation Tasks [[arxiv](https://arxiv.org/pdf/2112.03227.pdf)] [[github](https://github.com/mees/calvin/tree/main)] [2021]
+
+
 
 </details>
 
