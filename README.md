@@ -16,7 +16,7 @@ This repository mainly organizes resources related to embodied intelligence, inc
 
 - CALVIN: A Benchmark for Language-Conditioned Policy Learning for Long-Horizon Robot Manipulation Tasks [[arxiv](https://arxiv.org/pdf/2112.03227.pdf)] [[github](https://github.com/mees/calvin/tree/main)] [2021]
 
-
+- Open X-Embodiment: Robotic Learning Datasets and RT-X Models [[website](https://robotics-transformer-x.github.io/)] [[github](https://github.com/google-deepmind/open_x_embodiment)]
 
 </details>
 
