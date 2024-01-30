@@ -30,9 +30,12 @@ This repository mainly organizes resources related to embodied intelligence, inc
 </details>
 <details> <summary>LLM-Robot</summary>
 
-- VISION-LANGUAGE FOUNDATION MODELS AS EFFEC-TIVE ROBOT IMITATORS [[arxiv](https://arxiv.org/abs/2311.01378.pdf)] [[github](https://roboflamingo.github.io)] [2023]
+- OK-Robot: What Really Matters in Integrating Open-Knowledge Models for Robotics [[arxiv](https://arxiv.org/pdf/2401.12202.pdf)] [[github](https://ok-robot.github.io)] [2024]
 
 - MultiPLY: A Multisensory Object-Centric Embodied Large Language Model in 3D World [[arxiv](https://arxiv.org/pdf/2401.08577.pdf)] [[website](https://vis-www.cs.umass.edu/multiply)] [2024]
+
+- VISION-LANGUAGE FOUNDATION MODELS AS EFFEC-TIVE ROBOT IMITATORS [[arxiv](https://arxiv.org/abs/2311.01378.pdf)] [[github](https://roboflamingo.github.io)] [2023]
+
 
 </details>
 
