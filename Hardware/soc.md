@@ -1,4 +1,4 @@
-# System of Chip (SoC)
+# System on Chip (SoC)
 
 ## NVIDIA
 
